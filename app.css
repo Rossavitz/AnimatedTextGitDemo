@@ -3,11 +3,11 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: purple;
+    background-color: orchid;
 }
 
 h1 {
-    font-size: 15rem;
+    font-size: 13rem;
 }
 
 .letter {
